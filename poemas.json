@@ -1,0 +1,38 @@
+[
+  {
+    "tipo": "imagen",
+    "titulo": "Donde empieza todo",
+    "contenido": "images/poema 1.jpeg",
+    "imagen": "photos/foto1.jpg"
+  },
+  {
+    "tipo": "imagen",
+    "titulo": "Elegirte sin ruido",
+    "contenido": "images/poema 2.jpeg",
+    "imagen": "images/poema 2.jpeg"
+  },
+  {
+    "tipo": "imagen",
+    "titulo": "Tu nombre en mis dias",
+    "contenido": "images/poema 3.jpeg",
+    "imagen": "images/poema 3.jpeg"
+  },
+  {
+    "tipo": "imagen",
+    "titulo": "Promesa sin fecha de vencimiento",
+    "contenido": "images/poema 4.jpeg",
+    "imagen": "images/poema 4.jpeg"
+  },
+  {
+    "tipo": "imagen",
+    "titulo": "Lo que nadie ve",
+    "contenido": "images/poema 5.jpeg",
+    "imagen": "images/poema 5.jpeg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Cuando sonríes",
+    "contenido": "Cuando sonríes\nalgo se acomoda en mí,\ncomo si el mundo encontrara\nsu forma correcta de latir.\n\nNo es solo tu boca curvándose,\nes la calma que traes contigo,\nla manera en que haces ligero\nlo que antes parecía difícil.\n\nTu sonrisa no ilumina el día,\nlo vuelve hogar.\nMe recuerda que el amor\nno es grandioso…\nes cercano.\n\nY si alguna vez lo olvidas,\nquiero que sepas esto:\ncada vez que sonríes,\nyo entiendo por qué te amo.",
+    "imagen": "images/poema 1.jpeg"
+  }
+]

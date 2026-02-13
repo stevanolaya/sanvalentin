@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Dancing Script', cursive;
+    background: linear-gradient(to bottom, #f5e6d8, #fdfaf6);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    perspective: 2000px;
+}
+
+/* Portada */
+
+.cover {
+    text-align: center;
+    animation: fadeIn 2s ease;
+}
+
+.cover h1 {
+    font-size: 3rem;
+    color: #5e4636;
+}
+
+.cover h2 {
+    margin-top: 15px;
+    font-size: 1.4rem;
+    color: #8b6f5c;
+}
+
+.cover button {
+    margin-top: 30px;
+    padding: 12px 25px;
+    border: none;
+    background: #e8cfc1;
+    color: #5e4636;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 30px;
+    transition: 0.3s;
+}
+
+.cover button:hover {
+    background: #d9b7a6;
+}
+
+.music-btn {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background: #f1ddd2;
+    border: none;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+/* Libro */
+
+.book-container {
+    width: 90vw;
+    max-width: 800px;
+    height: 80vh;
+    position: relative;
+}
+
+.book {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transform-style: preserve-3d;
+}
+
+.page {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: #fdfaf6;
+    border-radius: 5px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    transform-origin: left;
+    transition: transform 1s ease;
+    cursor: pointer;
+}
+
+.page.flipped {
+    transform: rotateY(-180deg);
+}
+
+.page .front,
+.page .back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    padding: 40px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+
+.page .front {
+    background: url('https://www.transparenttextures.com/patterns/paper.png');
+}
+
+.page .back {
+    transform: rotateY(180deg);
+}
+
+.page img {
+    max-width: 100%;
+    max-height: 65%;
+    object-fit: contain;
+    border-radius: 8px;
+    margin-top: 10px;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
+    background: linear-gradient(to right, #fdfaf6 0%, #f8f3ee 100%);
+
+}
+
+
+.hidden {
+    display: none;
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+@media(max-width: 768px) {
+    .cover h1 {
+        font-size: 2rem;
+    }
+}
+
+.poema-titulo {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.8rem;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #5e4636;
+    letter-spacing: 1px;
+    position: relative;
+}
+
+.poema-titulo::after {
+    content: "";
+    display: block;
+    width: 60px;
+    height: 1px;
+    background: #c8a98d;
+    margin: 10px auto 0;
+}

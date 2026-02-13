@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Para el amor de mi vida</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Google Font manuscrita -->
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600&family=Dancing+Script:wght@400;600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Música -->
+    <audio id="bgMusic" loop>
+        <source src="images/musica.mp3" type="audio/mpeg">
+    </audio>
+
+    <audio id="flipSound">
+        <source src="images/page-flip.mp3" type="audio/mpeg">
+    </audio>
+
+    <!-- Portada -->
+    <div class="cover" id="cover">
+        <h1>99 Poemas Para Ti</h1>
+        <h2>Un cuaderno escrito con el corazón</h2>
+        <h3>Muchos nos los pude pasar a mano, por que era el regalo que te tenia, un detalle bobo pero hecho con amor aun los sigo escribiendo con un recuerdo hermoso GRACIAS</h3> 
+        <button id="openBook">Abrir el cuaderno</button>
+    </div>
+
+    <!-- Botón música -->
+    <button class="music-btn" id="musicToggle">🎵</button>
+
+    <!-- Libro -->
+    <div class="book-container hidden">
+        <div class="book" id="book"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
