@@ -2,37 +2,589 @@
   {
     "tipo": "imagen",
     "titulo": "Donde empieza todo",
-    "contenido": "images/poema 1.jpeg",
+    "contenido": "images/poema 1.jpg",
     "imagen": "photos/foto1.jpg"
   },
   {
     "tipo": "imagen",
     "titulo": "Elegirte sin ruido",
-    "contenido": "images/poema 2.jpeg",
-    "imagen": "images/poema 2.jpeg"
+    "contenido": "images/poema 2.jpg",
+    "imagen": "photos/foto2.jpg"
   },
   {
     "tipo": "imagen",
     "titulo": "Tu nombre en mis dias",
-    "contenido": "images/poema 3.jpeg",
-    "imagen": "images/poema 3.jpeg"
+    "contenido": "images/poema 3.jpg",
+    "imagen": "photos/foto3.jpg"
   },
   {
     "tipo": "imagen",
     "titulo": "Promesa sin fecha de vencimiento",
-    "contenido": "images/poema 4.jpeg",
-    "imagen": "images/poema 4.jpeg"
+    "contenido": "images/poema 4.jpg",
+    "imagen": "photos/foto4.jpg"
   },
   {
     "tipo": "imagen",
     "titulo": "Lo que nadie ve",
-    "contenido": "images/poema 5.jpeg",
-    "imagen": "images/poema 5.jpeg"
+    "contenido": "images/poema 5.jpg",
+    "imagen": "photos/foto5.jpg"
   },
   {
     "tipo": "texto",
     "titulo": "Cuando sonríes",
     "contenido": "Cuando sonríes\nalgo se acomoda en mí,\ncomo si el mundo encontrara\nsu forma correcta de latir.\n\nNo es solo tu boca curvándose,\nes la calma que traes contigo,\nla manera en que haces ligero\nlo que antes parecía difícil.\n\nTu sonrisa no ilumina el día,\nlo vuelve hogar.\nMe recuerda que el amor\nno es grandioso…\nes cercano.\n\nY si alguna vez lo olvidas,\nquiero que sepas esto:\ncada vez que sonríes,\nyo entiendo por qué te amo.",
-    "imagen": "images/poema 1.jpeg"
+    "imagen": "photos/foto6.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Tu lugar en mi vida",
+    "contenido": "A veces me pregunto cómo explicarte el espacio que ocupas en mi vida sin que suene exagerado. No eres un capítulo bonito, eres parte de la historia completa. No llegaste a cambiarlo todo de golpe, llegaste a quedarte… y eso fue suficiente para transformarlo todo desde adentro.\n\nContigo entendí que el amor no se trata de necesitar, sino de querer compartir. No te tengo para llenar vacíos; te tengo porque elijo caminar contigo aun cuando podría hacerlo solo. Y si algo tengo claro hoy, es que tu lugar no es pasajero. Es firme, es seguro, es el sitio donde mi corazón decidió construir.",
+    "imagen": "photos/foto7.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Contigo, lo simple es suficiente",
+    "contenido": "Antes pensaba que el amor tenía que sentirse extraordinario todo el tiempo, como fuegos artificiales constantes. Pero contigo descubrí algo mucho más valioso: la tranquilidad de lo simple. Una conversación cualquiera, caminar sin rumbo, compartir el silencio… y sentir que nada más hace falta.\n\nNo necesito escenarios perfectos ni planes grandiosos cuando estoy contigo. Me basta tu presencia, tu risa suave, la forma en que entrelazas tus dedos con los míos. Porque lo que siento no depende del lugar ni del momento; depende de ti. Y contigo, incluso el día más común se convierte en uno que quiero recordar.",
+    "imagen": "photos/foto8.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Si algún día dudas",
+    "contenido": "Si algún día dudas de lo que siento, vuelve a esta página. No para leer palabras bonitas, sino para recordar que lo nuestro no nació de la casualidad, sino de la decisión. Yo no estoy aquí por costumbre ni por comodidad. Estoy aquí porque te amo con conciencia, con intención, con ganas de futuro.\n\nTe amo en tus días claros y en los nublados. Te amo cuando todo fluye y cuando algo pesa. No necesito que seas perfecta; necesito que seas tú. Y si alguna vez el miedo te susurra que no eres suficiente, quiero que esta hoja le responda por ti: eres más de lo que soñé y exactamente lo que mi vida necesitaba.",
+    "imagen": "photos/foto9.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Diez días escribiéndote",
+    "contenido": "Hoy son diez días escribiéndote, y mientras lo hago me doy cuenta de algo hermoso: no se me acaban las razones para amarte. Pensé que sería difícil encontrar palabras nuevas cada día, pero cuando el sentimiento es real, las palabras llegan solas, como si mi corazón supiera el camino.\n\nDiez días no parecen mucho tiempo, pero para mí ya significan constancia, intención y elección. Porque esto no es solo tinta sobre papel, es mi manera de decirte que quiero quedarme, que quiero construir, que quiero que un día mires este cuaderno y sientas que alguien te amó con paciencia, con claridad y sin miedo. Y ese alguien soy yo, todos los días.",
+    "imagen": "photos/foto10.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Tu forma de abrazarme",
+    "contenido": "Hay abrazos que duran segundos\ny hay abrazos que sostienen el mundo\n\nEl tuyo no solo me rodea,\nme entiende.\nNo solo me toca,\nme calma.\n\nCuando me abrazas\nno siento prisa,\nno siento ruido,\nno siento miedo.\n\nEs como si todo encontrara\nsu lugar exacto,\ncomo si el corazón supiera\nque ahí puede descansar.\n\nSi algún día me pierdo un poco,\nno me busques lejos:\nabrázame…\ny vuelvo.",
+    "imagen": "photos/foto11.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Lo que construimos sin darnos cuenta",
+    "contenido": "A veces pienso en todo lo que hemos construido sin hacer ruido. No fueron grandes discursos ni promesas exageradas; fueron pequeños actos repetidos con cariño. Fue quedarnos hablando cuando ya era tarde, fue apoyarnos en días difíciles, fue aprender a entendernos incluso cuando no pensábamos igual.\n\nLo nuestro no nació terminado, lo hemos ido armando con paciencia. Y eso lo hace más valioso. Porque no es un amor improvisado, es un amor trabajado. Cada gesto, cada conversación honesta, cada abrazo después de un desacuerdo ha puesto un ladrillo más en esto que estamos levantando. Y me gusta saber que no es frágil… es firme, porque lo hacemos juntos.",
+    "imagen": "photos/foto12.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Me gusta cómo eres",
+    "contenido": "Me gusta cómo eres cuando nadie te está mirando. La forma en que te concentras en cosas pequeñas, cómo frunces un poco el ceño cuando algo te importa, cómo sonríes sin darte cuenta cuando algo te hace feliz. Me gusta tu esencia, esa que no intenta impresionar a nadie y aun así ilumina todo.\n\nNo te amo por una versión idealizada de ti. Te amo por lo real, por lo humano, por lo imperfecto que te hace única. Y si alguna vez te miras al espejo con dudas, quiero que recuerdes que hay alguien que te mira con certeza. Que te ve completa, valiosa y suficiente exactamente así como eres.",
+    "imagen": "photos/foto13.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Si la vida se pone difícil",
+    "contenido": "No puedo prometerte que la vida será siempre fácil. Habrá días pesados, momentos de duda, etapas que nos exijan más de lo que creemos poder dar. Pero sí puedo prometerte algo con total certeza: no vas a enfrentarlos sola.\n\nSi la vida se pone difícil, quiero ser tu lugar seguro. El espacio donde puedas bajar la guardia, donde no tengas que ser fuerte todo el tiempo. Quiero escucharte sin apurarte, abrazarte sin condiciones y recordarte, cuando lo olvides, todo lo que vales. No quiero ser quien te salve del mundo; quiero ser quien camine contigo a través de él.",
+    "imagen": "photos/foto14.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Quince razones (y me faltan)",
+    "contenido": "Hoy podría escribir un poema largo,\npero prefiero decirte algo simple:\naquí van quince razones por las que te amo,\naunque sé que me quedo corto.\n\n 1. Por tu forma de escuchar de verdad.\n2. Por cómo haces espacio para lo que siento.\n3. Por tu risa, que cambia el clima del día.\n4. Por tu paciencia cuando algo me cuesta.\n5. Por tu manera de soñar sin rendirte.\n6. Por cómo me miras cuando hablo.\n7. Por tu ternura sin espectáculo.\n8. Por tu fuerza silenciosa.\n9. Por la calma que me das.\n10. Por tu honestidad, incluso cuando es difícil.\n11. Por tu sensibilidad tan tuya.\n12. Por tu forma de cuidar lo que amas.\n13. Por tu autenticidad.\n14. Por lo que eres cuando nadie te ve.\n15. Por elegir quedarte conmigo.",
+    "imagen": "photos/foto15.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "El futuro que imagino",
+    "contenido": "A veces, sin darme cuenta, te incluyo en todo lo que imagino. Cuando pienso en metas, en viajes, en sueños por cumplir, tu nombre aparece como algo natural, como si siempre hubiera estado ahí. No es presión ni expectativa; es deseo sincero de compartir la vida contigo.\n\nNo imagino un futuro perfecto, imagino uno real. Con días buenos y otros desordenados, con planes que salgan bien y otros que cambien sobre la marcha. Pero en todos, quiero que estés tú. Quiero que seamos equipo, que celebremos lo que logremos y que nos apoyemos cuando algo no salga como esperamos. Si pienso en el mañana y sonrío, es porque te veo caminando a mi lado.",
+    "imagen": "photos/foto16.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Tu paz",
+    "contenido": "En un mundo que corre,\ntú caminas.\n\nEn días que pesan,\n tú alivianas.\n\nNo llegaste a revolucionar mi vida\ncon ruido,\nllegaste a ordenarla\ncon calma.\n\nTu presencia no grita,\nsusurra.\nNo empuja,\nacompaña.\nY en medio de todo lo que cambia,\nhay algo que permanece:\ncuando estoy contigo,\nestoy en paz.\n\nY qué regalo más grande que amar\ny sentir descanso al mismo tiempo.",
+    "imagen": "photos/foto17.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Lo que despiertas en mí",
+    "contenido": "Desde que estás en mi vida, hay partes de mí que comenzaron a despertar. No porque me cambiaras, sino porque me hiciste querer ser mejor. Mejor al escuchar, mejor al amar, mejor al cuidar lo que importa. Contigo entendí que el amor no es perderse en alguien, es encontrarse con más claridad.\n\nDespiertas en mí una versión más consciente, más paciente, más comprometida. Me haces pensar en el futuro con responsabilidad y con ilusión al mismo tiempo. Y si alguna vez te preguntas qué provocas en mi vida, la respuesta es esta: crecimiento, intención y un amor que no es pasajero, sino profundo y decidido.",
+    "imagen": "photos/foto18.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Cuando pienso en nosotros",
+    "contenido": "Cuando pienso en nosotros, no pienso en una historia perfecta; pienso en una historia valiente. Porque amar de verdad requiere decisión, conversación, paciencia. Y nosotros hemos elegido eso. Hemos elegido hablar cuando es más fácil callar, quedarnos cuando sería más sencillo alejarnos, entender antes que juzgar.\n\nMe gusta pensar que lo nuestro no es frágil, porque está hecho de intención. No somos dos personas que coinciden por un rato; somos dos que están aprendiendo a construir algo que valga la pena. Y cada vez que pienso en nosotros, siento orgullo. Orgullo de lo que somos, de lo que cuidamos y de lo que todavía estamos aprendiendo a ser juntos.",
+    "imagen": "photos/foto19.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Veinte días, y sigo eligiéndote",
+    "contenido": "Hoy son veinte días escribiéndote, y lo más bonito es que no siento que esté cumpliendo una meta, sino reafirmando una verdad. Porque elegirte no es algo que hice una vez; es algo que hago todos los días. En lo simple, en lo difícil, en lo que se entiende rápido y en lo que requiere paciencia.\n\nSi algún día lees todo esto de corrido, quiero que notes algo: no hay exageración, hay constancia. No hay promesas imposibles, hay decisión real. Te amo no solo por lo que siento, sino por lo que estoy dispuesto a construir contigo. Y si hoy tuviera que empezar de nuevo, volvería a escoger tu risa, tu mirada y tu manera de estar en mi vida.",
+    "imagen": "photos/foto20.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Tu voz",
+    "contenido": "Hay algo en tu voz\nque no sé explicar,\npero sé reconocer\nincluso en medio del ruido.\n\nNo es solo sonido,\nes casa.\n\nCuando dices mi nombre\nalgo en mí se ordena.\nCuando me hablas suave,\nel día se vuelve menos pesado.\n\nTu voz no necesita prometer nada,\nporque ya cumple:\nme acompaña,\nme calma,\nme recuerda que no estoy solo.\n\nSi algún día el mundo me confunde,\nque me llame tu voz…\ny sabré volver.",
+    "imagen": "photos/foto21.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Lo que siento cuando me miras",
+    "contenido": "Hay miradas que pasan desapercibidas… y está la tuya. Cuando me miras, no siento juicio ni expectativa, siento presencia. Es como si en ese instante el mundo se redujera a algo más sencillo: tú y yo, compartiendo un segundo que vale más que cualquier palabra.\n\nTu mirada tiene algo honesto, algo que no finge. Me hace sentir visto de verdad, comprendido incluso cuando no explico todo. Y eso es raro, y por eso es valioso. Si alguna vez te preguntas qué provoca en mí esa forma tuya de mirarme, la respuesta es simple: seguridad. Porque en tus ojos encuentro un lugar donde puedo ser completamente yo.",
+    "imagen": "photos/foto22.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Lo cotidiano contigo",
+    "contenido": "Hay algo profundamente hermoso en lo cotidiano cuando estoy contigo. No necesitamos grandes planes para sentir que el día valió la pena. A veces basta con compartir una conversación sencilla, reírnos de algo pequeño o simplemente estar en el mismo espacio, cada uno en lo suyo, pero sabiendo que el otro está ahí.\n\nContigo entendí que el amor verdadero no vive solo en momentos extraordinarios; vive en la constancia. En los “¿ya llegaste?”, en los mensajes de cuidado, en los detalles que parecen mínimos pero lo dicen todo. Y si algún día nuestra historia se resume en algo, espero que sea esto: supimos hacer del día a día un lugar donde siempre queríamos volver.",
+    "imagen": "photos/foto23.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Gracias por quedarte",
+    "contenido": "Hoy no quiero hablar de promesas ni de futuro. Hoy quiero decirte gracias. Gracias por quedarte incluso en los días en que no soy mi mejor versión. Gracias por tu paciencia cuando necesito tiempo, por tu ternura cuando algo me pesa, por tu manera tan tuya de cuidar lo que amas.\n\nNo das amor a medias, y eso lo veo en cada gesto. En cómo escuchas, en cómo intentas entender antes de reaccionar, en cómo eliges construir en lugar de rendirte. No siempre lo digo, pero lo siento con claridad: tenerte en mi vida no es algo que doy por hecho. Es un regalo que valoro, y que quiero cuidar todos los días.",
+    "imagen": "photos/foto24.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Tu risa y mi mundo",
+    "contenido": "No sé si eres consciente\nde lo que provoca tu risa.\n\nNo es solo sonido,\nes movimiento.\n\nCuando te ríes,\nalgo en mí despierta,\ncomo si el día encontrara\nuna razón para brillar distinto.\n\nTu risa no es escandalosa,\nes sincera.\nNo busca atención,\nnace sola.\n\nY yo, que he escuchado tantas cosas en la vida,\nsé reconocer lo valioso:\ntu risa es de esas que no se olvidan,\nporque no solo se oyen…\nse sienten.\n\nSi algún día me preguntas qué quiero cuidar,\nte diré sin dudarlo:\neso que te hace reír.",
+    "imagen": "photos/foto25.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "El lugar donde descanso",
+    "contenido": "No siempre estoy cansado del mundo, pero cuando lo estoy, pienso en ti. No como escape, sino como descanso. Porque estar contigo no me exige ser más fuerte, ni más interesante, ni más perfecto. Me permite ser yo. Y eso, en un mundo que siempre pide algo, es un regalo enorme.\n\nContigo no siento que tenga que demostrar nada. Puedo hablar de mis dudas, de mis miedos, de lo que aún estoy aprendiendo. Y en vez de juicio, encuentro comprensión. Por eso, si tuviera que describir lo que eres para mí en una sola frase, diría esto: eres el lugar donde mi corazón baja la guardia y se siente en casa",
+    "imagen": "photos/foto26.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Lo que no te digo todos los días",
+    "contenido": "Hay cosas que siento tan profundamente que a veces no las digo en voz alta. No porque no quiera, sino porque las vivo más de lo que las pronuncio. Pero hoy quiero dejarlo escrito: admiro la mujer que eres. Tu manera de pensar, tu sensibilidad, tu fuerza tranquila.\n\nNo solo te amo por cómo me haces sentir, te amo por quién eres cuando el mundo no está mirando. Por tu ética, por tus sueños, por tu capacidad de sostener lo que importa. A veces te veo avanzar, esforzarte, crecer… y me siento orgulloso de estar a tu lado. No como espectador, sino como compañero",
+    "imagen": "photos/foto27.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Tu mano en la mía",
+    "contenido": "No es un gesto grande,\npero lo cambia todo.\n\nTu mano en la mía\nno hace ruido,\nno busca atención,\nno necesita testigos.\n\nEs simple,\npero firme.\n\nCuando entrelazamos los dedos\nno solo se tocan las pieles,\nse conectan las intenciones.\n\nAhí, en ese pequeño gesto,\nhay promesas silenciosas:\n“estoy aquí”,\n“no te suelto”,\n“vamos juntos”.\n\nY a veces pienso\nque si el amor tuviera forma,\nesría exactamente eso:\ntu mano encontrando la mía\nsin dudar.",
+    "imagen": "photos/foto28.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Treinta días después",
+    "contenido": "Hoy son treinta días escribiéndote, y lo más bonito es que no se siente como un esfuerzo, sino como una extensión natural de lo que siento. Cada página ha sido una forma distinta de decir lo mismo: te amo, y quiero quedarme. Pero no quedarme por costumbre, sino por convicción.\n\nTreinta días después, sigo descubriendo razones nuevas para admirarte. Sigo sintiendo esa calma cuando pienso en nosotros. Y si algo tengo claro en este punto del camino es que esto no es un impulso, es intención. No es emoción pasajera, es decisión consciente. Y mientras haya días por vivir, quiero que muchos —ojalá todos— me encuentren escribiendo tu nombre con la misma certeza que hoy.",
+    "imagen": "photos/foto29.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Lo que somos cuando nadie nos ve",
+    "contenido": "Hay una versión de nosotros que no aparece en fotos ni en historias. Es la que existe cuando nadie está mirando, cuando no hay que impresionar a nadie. Esa es mi favorita. Porque ahí somos auténticos, sin filtros, sin poses, solo dos personas que eligieron acompañarse.\n\nMe gusta cómo hablamos cuando estamos solos, cómo nos entendemos con una mirada, cómo el silencio no incomoda. Me gusta que lo nuestro no dependa de aplausos ni de demostraciones públicas. Lo que somos en privado es lo que sostiene todo lo demás. Y si el mundo desapareciera por un momento, yo seguiría queriendo exactamente esto: tú y yo, siendo reales.",
+    "imagen": "photos/foto30.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Tu forma de cuidar",
+    "contenido": "Hay algo en tu manera de cuidar que me conmueve profundamente. No lo haces con ruido ni con grandes gestos, lo haces en lo pequeño: preguntando si ya comí, recordándome algo importante, notando cuando mi ánimo cambia aunque yo no lo diga. Tu cuidado no invade, acompaña.\n\nA veces no dimensionas lo valioso que es eso. En un mundo donde muchos pasan de largo, tú te detienes. Observas. Te importa. Y yo, que he aprendido a ser fuerte por mi cuenta, descubrí contigo que dejarme cuidar no es debilidad, es confianza. Gracias por tu forma tan tuya de proteger lo que amas. Yo también quiero aprender a cuidarte así.",
+    "imagen": "photos/foto31.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Los silencios que hablamos",
+    "contenido": "Hay silencios que pesan,\ny hay silencios que hablan.\n\nContigo descubrí los que hablan.\nNo necesitan palabras,\nsolo presencia.\n\nUn abrazo largo,\nuna mirada sostenida,\nuna mano que busca la otra\ny ya dice todo.\n\nEn esos instantes\nel mundo desaparece,\ny lo que importa\nes este pequeño universo\nque construimos juntos\ncon gestos sencillos.\n\nNo siempre necesitamos hablar.\nA veces, basta con sentir\nque estamos aquí,\n el uno para el otro.",
+    "imagen": "photos/foto32.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Tu rastro en mí",
+    "contenido": "Desde que llegaste, dejaste un rastro silencioso en mi vida. No en los lugares ni en los objetos, sino en mí. En la manera en que sonrío sin motivo, en cómo mi paciencia crece, en cómo mis días encuentran un orden más amable.\n\nNo sé si te das cuenta, pero tu presencia transforma lo cotidiano en especial. Cada gesto tuyo me deja una huella que no se borra: tu risa, tu forma de hablar, tu forma de estar. Y cada vez que pienso en ti, me doy cuenta de algo simple y profundo: amarte me cambia, me hace mejor, y no quiero dejar de sentirlo nunca.",
+    "imagen": "photos/foto33.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "El efecto de tu abrazo",
+    "contenido": "No importa cuán pesado sea el día,\ncuán lejos parezca la calma,\ntu abrazo siempre la encuentra.\n\nNo es un gesto cualquiera,\nes un lenguaje secreto\nque entiende mi corazón.\n\nCuando me rodeas con tus brazos\ntodo encaja:\nlos miedos pierden fuerza,\nlas dudas se disuelven,\ny la vida vuelve a sentirse posible.\n\nNo sé qué magia usas,\npero prometo apreciarla\ncada vez que me dejas estar\nentre tus brazos.",
+    "imagen": "photos/foto34.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Tus palabras que me quedan",
+    "contenido": "A veces repito en mi cabeza cosas que me has dicho. No como un eco vacío, sino porque se quedan conmigo, me calman y me enseñan. Tu voz tiene esa magia: puede convertir un día pesado en un instante ligero, puede dar sentido a lo que parecía confuso.\n\nNo es solo lo que dices, es cómo lo dices. La paciencia, la ternura, la intención que pones en cada palabra. Aprendí a escuchar más que a oír, a valorar los silencios entre tus frases, a entender que tu cariño no necesita gritos ni dramatismo para ser profundo. Y eso me hace quererte aún más, de manera silenciosa pero inmensa.",
+    "imagen": "photos/foto35.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "La calma que traes",
+    "contenido": "Hay personas que llegan y cambian el ruido del mundo. Tú eres una de esas personas para mí. No con palabras grandiosas ni gestos espectaculares, sino con tu simple presencia. Contigo, lo que antes parecía complicado se vuelve manejable; lo que antes inquietaba, ahora encuentra su lugar.\n\nMe gusta cómo tu calma no impone, sino que invita. Cómo tu manera de estar transforma los momentos ordinarios en espacios donde puedo respirar, pensar y sentir sin prisa. Si alguna vez olvido lo importante, tu serenidad me lo recuerda: a veces amar es simplemente estar, sin dramatismo, sin urgencia, solo juntos.",
+    "imagen": "photos/foto36.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "Cada detalle de ti",
+    "contenido": "Me descubro admirando cosas pequeñas de ti que casi nadie nota: la forma en que frunces el ceño cuando algo te preocupa, cómo tus dedos juegan con una taza mientras hablas, la manera en que tus ojos buscan los míos sin que lo diga una palabra.\n\nEsos detalles me enseñan lo valiosa que eres y cómo incluso lo cotidiano puede sentirse extraordinario a tu lado. Cada gesto tuyo deja una huella silenciosa en mí, y cada día me recuerda que amarte no es por grandes momentos, sino por todas esas pequeñas piezas que juntas hacen que te quiera tanto.",
+    "imagen": "photos/foto37.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "La seguridad de tu abrazo",
+    "contenido": "No es solo un gesto,\nes un refugio.\n\nCuando me envuelves en tu abrazo\nel mundo pierde su peso,\nlas dudas se disuelven\ny todo parece posible.\n\nNo necesito explicaciones,\nni promesas rimbombantes,\nsolo sentir tu presencia\ncomo ancla y como hogar.\n\nY en ese instante breve\nsé que todo está bien,\nporque donde tú estás,\nyo también estoy seguro.",
+    "imagen": "photos/foto38.jpg"
+  },
+  {
+    "tipo": "texto",
+    "titulo": "El reflejo de tu risa",
+    "contenido": "Hay algo en tu risa que se queda conmigo mucho después de que suena. No es solo alegría; es luz que se filtra en los rincones del día, calma que se esparce, energía que me contagia sin esfuerzo. Cuando ríes, todo parece más fácil, incluso lo que parecía complicado.\n\nMe gusta cómo tu risa no necesita escenario ni aplausos. Es sincera, espontánea, tuya. Y yo, que a veces me preocupo demasiado por todo, encuentro en ella un recordatorio simple: la vida puede ser ligera, y juntos podemos disfrutarla así, con todo lo que somos, sin máscaras, sin prisa.",
+    "imagen": "photos/foto39.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tus manos que hablan”",
+    "contenido":"No siempre hacen falta palabras,\nporque tus manos dicen lo que el corazón siente.\n\nCuando me rozan suavemente,\ntodo el miedo se disuelve.\nCuando me sostienen firme,\nsé que no estoy solo.\n\nTus manos saben esperar,\nsaben cuidar,\njuntos,\nsin necesidad de prometer nada más.\n\nY cada vez que las siento,\naprendo que el amor también se escribe\nen los gestos que no necesitan voz.",    
+    "imagen":"photos/foto40.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "La fuerza de tu ternura",
+    "contenido":"A veces pienso que la ternura no es debilidad, y tú me lo demuestras cada día. Esa suavidad con la que tratas las cosas importantes, esa paciencia con la que escuchas, esa manera de hacer sentir que todo está bien… tiene más fuerza que cualquier palabra grandiosa.\n\nTu ternura me enseña que el amor verdadero no necesita imponerse, solo sostener. Me hace querer ser mejor, querer cuidar más, querer construir sin prisa pero con intención. Y lo más hermoso es que no la presumes; simplemente eres tú, y eso basta para transformar mis días.",
+    "imagen":"photos/foto41.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Los pequeños instantes contigo",
+    "contenido":"No siempre son los grandes momentos los que recuerdo; son los pequeños instantes. Esa risa compartida en medio de la nada, el café juntos por la mañana, un abrazo que aparece sin avisar. Esos segundos donde todo se siente natural, donde no hace falta nada más que estar.\n\nContigo aprendí que el amor no se mide por gestos espectaculares, sino por la constancia de lo simple. Cada instante contigo construye algo más grande que cualquier promesa grandiosa. Y me doy cuenta de que, si pudiera elegir, querría pasar todos los días coleccionando pequeños instantes a tu lado.",
+    "imagen":"photos/foto42.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Eres mi refugio",
+    "contenido":"Hay lugares seguros, y luego estás tú. No necesito que hagas nada extraordinario, solo que estés. Contigo puedo soltar la máscara, bajar la guardia y sentir que todo está bien, aunque afuera el mundo sea caos.\n\nNo es un amor ruidoso ni urgente; es un amor que sostiene, que acompaña, que permite ser. Saber que estás allí, dispuesto a escuchar, a comprender, a abrazar sin condiciones, me da paz. Y cada día agradezco que tu presencia sea ese refugio que siempre quise, sin buscarlo, pero con la certeza de que lo encontré en ti.",
+    "imagen":"photos/foto43.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "El poder de tu mirada”",
+    "contenido":"Hay miradas que se cruzan y se olvidan. La tuya no. Cuando me miras, siento que me entiendes sin necesidad de palabras. Hay ternura, atención, calma… y un silencio que dice más que cualquier frase.\n\nHay miradas que se cruzan y se olvidan. La tuya no. Cuando me miras, siento que me entiendes sin necesidad de palabras. Hay ternura, atención, calma… y un silencio que dice más que cualquier frase.Tu mirada tiene el poder de detener mi mundo por un instante, de hacerme sentir seguro, comprendido y acompañado. Es un recordatorio constante de que no estoy solo, de que alguien que me importa me ve de verdad. Y eso, en un mundo ruidoso, es un regalo que valoro cada día.",
+    "imagen":"photos/foto44.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tus palabras que me quedan",
+    "contenido":"A veces repito en mi cabeza cosas que me has dicho. No como un eco vacío, sino porque se quedan conmigo, me calman y me enseñan. Tu voz tiene esa magia: puede convertir un día pesado en un instante ligero, puede dar sentido a lo que parecía confuso.\n\nNo es solo lo que dices, es cómo lo dices. La paciencia, la ternura, la intención que pones en cada palabra. Aprendí a escuchar más que a oír, a valorar los silencios entre tus frases, a entender que tu cariño no necesita gritos ni dramatismo para ser profundo. Y eso me hace quererte aún más, de manera silenciosa pero inmensa.",
+    "imagen":"photos/foto45.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Lo que me enseñas sin querer",
+    "contenido":"Contigo aprendo sin darte cuenta. Aprendo paciencia cuando me escuchas, aprendo humildad cuando me corriges con ternura, aprendo alegría cuando compartes una risa genuina. Cada día contigo es una lección sobre cómo amar y cómo ser mejor, sin esfuerzo ni imposición, solo por tu forma de ser.\n\nNo necesito libros ni consejos; basta con observarte, acompañarte y sentir cómo lo que haces transforma no solo mi día, sino la manera en que veo la vida. Y mientras más aprendo de ti, más agradezco que tu amor sea también un maestro silencioso que me guía suavemente hacia lo que importa.",
+    "imagen":"photos/foto46.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "El eco de tu risa",
+    "contenido":"Tu risa no se queda solo en el momento,\nse queda en mi pecho,\ncomo un eco que reconforta.\n\nNo necesita escenario ni aplausos,\nbasta que sea tuya,\nauténtica, sincera, ligera.\n\nCada vez que la escucho,\nel mundo parece más amable,\nlos problemas más pequeños,\ny la vida más fácil de abrazar.\n\nSi pudiera, atraparía cada instante\npara recordarme siempre\nque tu alegría transforma todo\nsin pedir nada a cambio.",    
+    "imagen":"photos/foto47.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tus silencios",
+    "contenido":"No todos los momentos necesitan palabras. Tus silencios me enseñan eso. No son vacíos ni distantes; son espacios donde puedo sentirte cerca, donde entiendo tu cuidado, tu calma, tu forma de acompañar sin invadir.\n\nContigo aprendí que el amor no siempre se mide en frases o promesas, sino en la presencia que sostiene. En tus silencios encuentro confianza, comprensión y ternura. Y eso me hace valorarte aún más, porque sé que puedo ser yo mismo y que, aun así, estás aquí, conmigo, presente, sin necesidad de decir nada.",
+    "imagen":"photos/foto48.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Cincuenta días eligiéndote",
+    "contenido":"Hoy son cincuenta días escribiéndote, y sigo sorprendiéndome de lo natural que es elegirte cada día. No es un impulso ni un capricho; es una certeza que crece con cada gesto, con cada conversación, con cada mirada compartida.\n\nA veces pienso en lo fácil que sería rendirse, distraerse o distraerme. Y luego te veo sonreír, y me doy cuenta de que la elección no requiere esfuerzo: tú eres mi elección constante, mi tranquilidad, mi alegría silenciosa. Si tuviera que resumir todo este tiempo en una frase, diría esto: cada día contigo confirma que elegirte es lo más sencillo y lo más real que hago.",
+    "imagen":"photos/foto49.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tu rastro en lo cotidiano",
+    "contenido":"A veces me detengo a notar cómo todo a mi alrededor lleva tu huella. No en objetos ni lugares, sino en mi manera de mirar la vida. Tu forma de ser me hace apreciar lo simple: un café, una conversación breve, un paseo cualquiera. Todo se siente distinto desde que te tengo cerca.\n\nMe doy cuenta de que amarte no es solo sentir algo intenso, sino aprender a ver el mundo de otra manera. Tu presencia transforma lo ordinario en especial, y cada día descubro pequeñas razones para sonreír que antes pasaban inadvertidas. Gracias por enseñarme que la vida es más bonita contigo en ella.",
+    "imagen":"photos/foto50.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Cuando me miras así",
+    "contenido":"Hay miradas que cambian el día, y la tuya es de esas. No es un simple gesto; es presencia, calma, cariño. Cuando me miras así, siento que todo encaja: mis dudas, mis miedos, mis silencios.\n\nNo necesito que digas nada. Tu mirada lo dice todo: “Estoy aquí contigo”, “Te entiendo”, “No tienes que ser perfecto”. Es un regalo silencioso que me recuerda que puedo ser yo mismo y, aun así, ser amado. Y mientras más te miro, más entiendo que parte de amar es aprender a leer esos silencios llenos de significado.",
+    "imagen":"photos/foto51.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "El valor de tu presencia",
+    "contenido":"No siempre es necesario hacer o decir cosas grandes para demostrar amor. Contigo aprendí que la presencia sincera vale más que cualquier gesto espectacular. Solo estar a tu lado, compartir un instante, escuchar tus silencios, eso ya lo dice todo.\n\nTu manera de estar, tranquila y consciente, me enseña que el amor también se construye en la constancia de lo simple. No necesito promesas rimbombantes ni palabras grandiosas: tu presencia me recuerda que soy afortunado, y que lo que tenemos es real, profundo y duradero.",
+    "imagen":"photos/foto52.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tus gestos que hablan",
+    "contenido":"No necesito tus palabras\npara sentir tu amor.\nTus gestos lo dicen todo:\n\nLa forma en que sonríes\ncuando algo me preocupa,\nel roce de tu mano\ncuando no encuentro palabras,\nla paciencia con que esperas\ncuando me pierdo en mis dudas.\nCada pequeño movimiento tuyo\nme recuerda que estoy cuidado,\nque estoy visto,\nque estoy amado.\nY así aprendo\nque el amor verdadero\nvive más en los detalles\nque en las grandes declaraciones.",
+    "imagen":"photos/foto53.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "El refugio de tu voz",
+    "contenido":"Hay voces que simplemente escuchamos; la tuya se queda. No solo me habla, me sostiene. Cuando me dices algo, aunque sea sencillo, siento que el mundo se calma y que todo encaja. Tu voz tiene esa capacidad: puede hacerme sonreír, reconfortarme y recordarme que no estoy solo.\n\nA veces cierro los ojos y la repito en mi cabeza, y es suficiente para sentirme acompañado. Contigo aprendí que el amor también se escucha, que no siempre necesita acción, que a veces basta con estar presente a través de las palabras dichas con el corazón.",
+    "imagen":"photos/foto54.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "El tiempo a tu lado",
+    "contenido":"No importa cuánto tiempo pase, cada minuto contigo se siente valioso. A veces los días son largos, otros fugaces, pero cuando estoy a tu lado, todos se llenan de significado. No es la cantidad de tiempo lo que importa, sino cómo lo vivimos juntos: con atención, con cuidado, con risa y complicidad.\n\nAprendí que amar no es llenar horas, sino hacer que cada instante cuente. Y contigo, incluso los silencios se sienten plenos, porque en ellos está tu presencia, tu ternura, tu forma de hacerme sentir que todo está bien.",
+    "imagen":"photos/foto55.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tus palabras en mi mente",
+    "contenido":"A veces me sorprendo repitiendo cosas que me dijiste, como si tu voz se quedara en mi cabeza para guiarme. No es un eco vacío; es compañía, calma y claridad. Cada palabra tuya deja una marca silenciosa que me recuerda que no estoy solo, que alguien tan real y cercano cree en mí y me cuida.'\n\nAprendí que el amor también vive en los detalles más simples, en las palabras que permanecen después de ser dichas, en los mensajes que se vuelven refugio sin necesidad de gritos ni dramatismo.",
+    "imagen":"photos/foto56.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Lo que tu risa hace",
+    "contenido":"Tu risa no solo suena,\nse siente.\nSe cuela en mis días grises,\nlos ilumina,\nlos hace más livianos,\nmás posibles.\n\nNo necesito nada más\ncuando ríes,\nporque tu alegría transforma todo:\nlos problemas, los silencios,\nmi mundo entero.\n\nY cada vez que la escucho,\naprendo que amar es también\napreciar los regalos simples\nque tú das sin esfuerzo.",
+    "imagen":"photos/foto57.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "El abrazo que me sostiene",
+    "contenido":"No todos los abrazos son iguales. El tuyo no solo envuelve mi cuerpo, envuelve mi mente y mi corazón. Hay días en que no necesito explicaciones, solo tu abrazo. Ahí siento que todo está en orden, que no hay prisa, que puedo ser yo mismo sin miedo.\n\nAprendí que el amor verdadero también se mide en gestos silenciosos, en la seguridad que nos damos con un roce de piel, con una presencia constante. Y tu abrazo es eso: un recordatorio de que, pase lo que pase, no estoy solo.",
+    "imagen":"photos/foto58.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Sesenta días contigo",
+    "contenido":"Hoy se cumplen sesenta días de este pequeño proyecto de escribirte, y lo hermoso es que no se siente como esfuerzo, sino como una necesidad: decirte lo que siento, reflejar cada detalle de ti que me hace feliz, reafirmar que eres mi elección constante.\n\nSesenta días después, sigo descubriendo nuevas razones para admirarte, para aprender de ti, para sentir que cada instante juntos vale más que cualquier promesa. Lo nuestro no es perfecto, pero es real, profundo y duradero. Y mientras más tiempo pasa, más quiero seguir construyendo esta historia contigo.",
+    "imagen":"photos/foto59.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tu calma que me guía",
+    "contenido":"Cuando todo a mi alrededor parece caótico, tu calma aparece como un faro. No grita, no exige, no impone; simplemente está, recordándome que puedo respirar, que puedo tomar las cosas con paciencia y confianza.\n\nContigo aprendí que la fuerza no siempre se mide por acción o palabras grandes, sino por la serenidad que se transmite sin esfuerzo. Tu manera de estar me enseña a encontrar equilibrio y a valorar lo sencillo, lo constante, lo verdadero.",
+    "imagen":"photos/foto60.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Cada gesto tuyo",
+    "contenido":"No son solo las palabras las que me llegan; son tus gestos, esos pequeños movimientos que casi nadie nota. La forma en que apoyas la mano sobre la mía, cómo inclinas la cabeza al escucharme, la atención con que recuerdas detalles que yo mismo olvido…\n\nCada uno de esos gestos me recuerda que estoy cuidado y amado. Y aunque no los declares con grandes frases, siento en ellos un cariño profundo y constante que me conmueve más que cualquier promesa escrita.",
+    "imagen":"photos/foto61.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Lo que significa verte reír",
+    "contenido":"Cuando ríes,\nel mundo cambia de color.\nNo hace falta escenario,\nni aplausos,\nsolo tú y tu risa ligera.\n\nCada carcajada tuya\ndesarma mis preocupaciones,\nilumina mis silencios,\nme recuerda que la vida\npuede ser simple y hermosa.\nY yo, que te miro,\naprendo que amar es también\nvalorar los momentos\nque no se repiten,\npero que dejan huella.",
+    "imagen":"photos/foto62.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "El refugio de tu abrazo",
+    "contenido":"No todos los abrazos son iguales, y el tuyo lo demuestra. No solo envuelve mi cuerpo; envuelve mis dudas, mis miedos, mis silencios. Cuando me abrazas, siento que puedo soltar todo lo que pesa y simplemente estar.\n\nTu abrazo es refugio y certeza. Es la forma más simple y sincera de recordarme que no estoy solo, que alguien me cuida y me acepta tal como soy. Cada vez que me sostienes, entiendo que amar también es sostener y ser sostenido.",
+    "imagen":"photos/foto63.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Sesenta y cinco días amándote",
+    "contenido":"Hoy se cumplen sesenta y cinco días de escribirte, y me doy cuenta de que cada palabra no es suficiente para expresar todo lo que siento. Cada día contigo es un recordatorio de que el amor no siempre es espectacular, sino profundo, cotidiano y constante.\n\nSesenta y cinco días después, sigo eligiéndote, descubriendo nuevas razones para admirarte y aprender de ti. Lo nuestro no es perfecto, pero es real, y eso lo hace invaluable. Y mientras haya días por vivir, quiero seguir escribiéndote, recordándote que eres mi elección, mi alegría y mi calma.",
+    "imagen":"photos/foto64jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tu risa que me sostiene",
+    "contenido":"No hace falta que digas nada,\ntu risa ya me dice todo.\nCuando ríes,\nel mundo se vuelve ligero,\nlos problemas pierden peso,\ny mi corazón sonríe contigo.\n\nEs un refugio silencioso,\nuna chispa que transforma\nlo cotidiano en extraordinario.\n\nY cada vez que escucho tu risa,\naprendo que amar también es\napreciar los regalos simples\nque vienen sin aviso,\npero que cambian todo.",
+    "imagen":"photos/foto65.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Los silencios",
+    "contenido":"No todos los silencios son incómodos. Los tuyos son compañía. En ellos encuentro atención, cuidado, comprensión. No necesito palabras cuando estás cerca; tu presencia basta.\n\nAprendí que el amor verdadero no siempre se habla. A veces se siente, se respira, se sostiene en miradas y gestos tranquilos. Tus silencios me recuerdan que puedo ser yo mismo y que, aun así, estoy acompañado, comprendido y amado.",
+    "imagen":"photos/foto66.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Cada detalle tuyo",
+    "contenido":"Me fijo en los detalles que otros podrían pasar por alto: cómo inclinas la cabeza, cómo juegas con tus manos, la forma en que sonríes sin motivo. Todos esos pequeños gestos me recuerdan lo especial que eres.\n\nNo necesito grandes palabras ni promesas. Esos detalles silenciosos construyen mi amor por ti cada día, porque muestran quién eres en realidad: alguien auténtico, tierno y profundamente valioso para mí.",
+    "imagen":"photos/foto67.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tu abrazo que me calma",
+    "contenido":"No todos los abrazos son iguales,\ny el tuyo lo demuestra.\nNo solo rodea mi cuerpo,\ntambién envuelve mis dudas,\nmis miedos, mis silencios.\n\nCuando me sostienes,\nel mundo deja de apurarme,\nlas preocupaciones se disuelven,\ny puedo simplemente estar.\n\nTu abrazo es refugio,\ncerteza y paz,\ny cada vez que lo siento\naprendo que amar también\nes sostener y ser sostenido.",
+    "imagen":"photos/foto68.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Setenta días eligiéndote",
+    "contenido":"Hoy se cumplen setenta días de escribirte y reafirmo algo que no cambia: elegirte cada día es natural, no un esfuerzo. Cada gesto tuyo, cada risa, cada silencio compartido me recuerda que lo nuestro es profundo, cotidiano y verdadero.\n\nSetenta días después, sigo descubriendo nuevas razones para admirarte y amarte. No necesitamos gestos grandiosos para sentir que lo nuestro es real. Lo es en cada instante compartido, en cada mirada, en cada abrazo. Y mientras haya días por vivir, quiero seguir eligiéndote, recordándote que eres mi calma, mi alegría y mi hogar.",
+    "imagen":"photos/foto69.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "La paciencia que me enseñas",
+    "contenido":"A veces me impaciento, quiero que todo sea rápido, que las cosas encajen de inmediato. Y entonces te miro a ti, y aprendo. Aprendo que la paciencia no es espera, sino acompañamiento. Tu forma de escuchar, de estar, de cuidar sin prisa, me enseña que el amor verdadero se construye despacio, con atención y respeto.\n\nGracias por enseñarme que cada paso a tu lado tiene sentido, aunque no lo vea todo de inmediato.",
+    "imagen":"photos/foto70.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "El efecto de tu sonrisa",
+    "contenido":"Tu sonrisa ilumina espacios\nque ni yo sabía que estaban oscuros.\nNo es solo alegría,\nes calma, seguridad,\ny un recordatorio silencioso\nde que todo puede estar bien.\n\nCuando sonríes,\nel mundo se vuelve más amable,\ny yo aprendo a sonreír incluso\nen los días que parecían difíciles.\n\nTu sonrisa no necesita escenario,\nbasta que sea tuya,\nauténtica y sencilla,\npara cambiarlo todo.",
+    "imagen":"photos/foto71.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tus manos que hablan",
+    "contenido":"Tus manos me cuentan cosas que las palabras no alcanzan. Cuando me tocan suavemente, siento cuidado; cuando me sostienen firme, siento seguridad. Cada gesto tuyo deja un mensaje de amor, paciencia y ternura que no necesito descifrar: lo siento, lo entiendo, lo atesoro.\n\nAprender a leer tus manos ha sido aprender a leer tu corazón, y eso hace que te ame más cada día.",
+    "imagen":"photos/foto72.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "La serenidad que me das",
+    "contenido":"En medio del ruido y la prisa, tu serenidad se convierte en mi ancla. No gritas ni exiges; simplemente estás y eso basta. Tu manera de vivir el día, tu calma al enfrentar dificultades, me enseña a respirar, a mirar las cosas desde otro ángulo y a confiar más.\n\nGracias por recordarme, sin palabras grandiosas, que el amor también puede ser quietud, pausa y refugio.",
+    "imagen":"photos/foto73.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Lo que me inspiras",
+    "contenido":"Cada día contigo me inspira a ser mejor: más atento, más paciente, más consciente de lo que importa. No por presión ni deber, sino porque tu forma de ser invita a querer crecer, a cuidar y a valorar lo simple.\n\nGracias por ser un espejo de lo bueno, un ejemplo de cariño sincero y una razón constante para sonreír. Lo que siento por ti no es pasajero; es un impulso diario que me recuerda que amarte transforma mi vida.",
+    "imagen":"photos/foto74.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "El valor de estar juntos",
+    "contenido":"No se trata de hacer cosas extraordinarias, sino de estar. Compartir un instante, caminar juntos, mirar el cielo o simplemente reírnos en silencio. Estar contigo convierte lo cotidiano en extraordinario y lo simple en memorable.\n\nCada momento juntos confirma algo que ya sabía: el amor verdadero no necesita adornos; basta con presencia y atención sincera.",
+    "imagen":"photos/foto75.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tus gestos que me emocionan",
+    "contenido":"No son las palabras\nsino tus gestos los que me llegan.\nUn roce de tu mano,\nuna sonrisa inesperada,\nla manera en que me miras\ncuando nadie más lo hace.\n\nCada uno me recuerda\nque estoy cuidado,\nque estoy visto,\nque estoy amado\nsin necesidad de grandes declaraciones.\n\nY en cada gesto tuyo\naprendo que el amor vive en lo cotidiano\ny que cada instante cuenta.",
+    "imagen":"photos/foto76.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Un abrazo tuyo, mi paz",
+    "contenido":"Cuando me abrazas, no solo siento tu cuerpo, sino tu cuidado y tu paciencia. Todo el mundo puede estar en caos, pero dentro de tu abrazo hay orden, refugio y paz. Es un lugar donde puedo ser yo mismo, sin miedos ni máscaras, y sentir que todo está bien.\n\nGracias por cada abrazo que no solo envuelve, sino que calma y protege.",
+    "imagen":"photos/foto77.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Los recuerdos que compartimos",
+    "contenido":"Cada recuerdo contigo se vuelve un tesoro. No importa si es un instante pequeño o una risa compartida, todo tiene un peso especial porque lo vivimos juntos. Esos recuerdos me acompañan y me enseñan que el amor también se construye día a día, en momentos simples pero sinceros.\n\nMe siento afortunado de tener una historia contigo que ya deja huellas profundas en mí.",
+    "imagen":"photos/foto78.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Ochenta días de ti",
+    "contenido":"Hoy se cumplen ochenta días de este proyecto, y cada palabra escrita me recuerda lo afortunado que soy de tenerte. No es solo amor; es admiración, respeto, complicidad y cuidado diario. Cada día contigo confirma que lo nuestro es real, profundo y duradero.\n\nOchenta días después, sigo descubriendo nuevas razones para amarte, para aprender de ti, para valorar lo simple y lo cotidiano. Y mientras siga habiendo días por vivir, quiero seguir escribiéndote y recordándote que eres mi elección constante, mi alegría y mi refugio.",
+    "imagen":"photos/foto79.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tu risa que me ilumina",
+    "contenido":"Tu risa atraviesa el día\ncomo luz que no se detiene.\nNo necesita escenario,\nni aplausos,\nbasta que sea tuya,\nsincera y ligera.\n\nCada vez que la escucho,\nlos problemas parecen menos pesados,\nlos silencios se vuelven cómodos,\ny todo lo cotidiano\nparece más hermoso.\n\nTu risa me enseña\nque amar también es valorar\nlos que dejan huella silenciosa.",
+    "imagen":"photos/foto80.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tus manos que me sostienen",
+    "contenido":"Tus manos no solo tocan, sostienen. Cada roce transmite cuidado, cada gesto me recuerda que estoy acompañado y amado. No hace falta que digas nada; tu presencia y tus manos hablan por ti.\n\nAprendí que el amor verdadero no necesita palabras grandiosas; a veces basta un gesto silencioso que diga: “Estoy aquí, contigo.” Y tus manos me lo recuerdan todos los días.",
+    "imagen":"photos/foto81.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tus silencios que me hablan",
+    "contenido":"No todos los silencios son vacíos. Los tuyos son presencia, cuidado y calma. En ellos aprendo a escucharte más allá de las palabras y a valorar cada instante compartido.\n\nContigo descubrí que el amor también vive en los gestos tranquilos, en la atención silenciosa y en la constancia de estar, aunque no se diga nada. Tus silencios me enseñan a sentir sin prisa y a confiar sin miedo.",
+    "imagen":"photos/foto82.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Cada instante contigo",
+    "contenido":"No importa si es un café compartido, una risa espontánea o un paseo sin destino. Cada instante contigo se vuelve especial, valioso y lleno de significado.\n\nAprendí que amar no es llenar el tiempo de gestos grandiosos, sino saborear cada momento con atención, ternura y cuidado. Contigo, incluso lo cotidiano se vuelve extraordinario.",
+    "imagen":"photos/foto83.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tu mirada que me encuentra",
+    "contenido":"Hay miradas que no necesitan palabras, y la tuya es de esas. Cuando me miras, siento que me conoces por completo, que entiendes mis silencios, mis dudas y mis alegrías. Es como si el mundo desapareciera por un instante y solo existiéramos tú y yo.\n\nAprendí que amar también es ser visto de verdad, y tú lo haces sin esfuerzo, solo estando ahí. Cada vez que cruzamos nuestras miradas, me siento afortunado de compartir mi vida contigo y de que me elijas cada día.",
+    "imagen":"photos/foto84.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tu nombre en mis dias",
+    "contenido":"Hay días en que todo parece gris y monótono, y luego apareces tú, sin hacer nada extraordinario, solo siendo tú. Tu manera de vivir, de sonreír, de mirar el mundo transforma lo simple en especial.\n\nContigo aprendí que el amor no siempre necesita grandes gestos; a veces basta con la luz que alguien trae a nuestras vidas solo con existir. Esa luz tuya hace que cada momento cotidiano tenga sentido y que cada día juntos sea un regalo que valoro infinitamente.",
+    "imagen":"photos/foto85.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tus palabras que me abrazan",
+    "contenido":"No siempre se trata de gestos o abrazos físicos; tus palabras también me envuelven y me sostienen. Cuando me hablas con sinceridad, cuando me recuerdas lo que valgo o simplemente compartes tus pensamientos, siento que me abrazas desde lejos, que me cuidas y me haces sentir seguro.\n\nContigo aprendí que el amor verdadero también se siente en la voz, en lo que se dice con cuidado y atención, y que cada palabra puede dejar una huella profunda en el corazón.",
+    "imagen":"photos/foto86.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tu curiosidad que me inspira",
+    "contenido":"Me encanta cómo miras el mundo, siempre buscando, preguntando, descubriendo. Tu curiosidad no solo te define a ti, sino que también me empuja a mirar más allá de lo evidente, a aprender, a explorar y a valorar cada detalle de la vida.\n\nContigo entendí que amar también es admirar, y que compartir la vida con alguien que se maravilla y se interesa de corazón hace que todo lo cotidiano se vuelva extraordinario.",
+    "imagen":"photos/foto87.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tu risa que crea recuerdos",
+    "contenido":"Cada risa tuya\nes un instante que guardo.\nNo solo ilumina la habitación,\ntambién queda impresa\nen mi memoria,\ncomo un sello de felicidad.\n\nCuando ríes conmigo,\ncada segundo se vuelve recuerdo,\ncada momento sencillo\nse convierte en eterno,\nporque tú lo haces único.",
+    "imagen":"photos/foto88.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "El hogar que eres tú",
+    "contenido":"Hoy, al escribir mi día noventa, pienso en lo que realmente significa sentir amor: no es un lugar, no es un momento perfecto; es alguien que te hace sentir en casa con solo estar.\n\nTú eres ese hogar para mí. Tu compañía me da seguridad, tu sonrisa me da paz, tu ternura me da fuerza. No necesito nada más, porque contigo encontré donde quiero estar: aquí, contigo, todos los días que vengan.",
+    "imagen":"photos/foto89.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Contigo aprendo a confiar",
+    "contenido":"Amor, quiero decirte que contigo aprendí lo que significa confiar de verdad. No se trata solo de creer que estarás ahí; es sentirlo en cada mirada, en cada palabra, en cada silencio compartido.\n\nConfío en ti porque me demuestras que amar es también ser constante, sincero y paciente. Y mientras más te conozco, más entiendo que la confianza no es solo dar seguridad, sino recibirla de la manera más natural y tranquila. Gracias por enseñarme esto cada día.",
+    "imagen":"photos/foto90.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tu compañía, mi refugio",
+    "contenido":"No siempre necesito palabras ni gestos grandiosos para sentirme bien. Tu sola compañía me basta. Estar contigo me da un refugio donde puedo ser yo mismo, donde mis dudas se sienten más livianas y mis pensamientos más claros.\n\nContigo aprendí que el amor verdadero se encuentra en la sencillez de compartir tiempo, en la tranquilidad de saber que alguien te comprende y te acompaña sin juzgar. Gracias por ser mi refugio silencioso y mi paz diaria.",
+    "imagen":"photos/foto91.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "El valor de tu presencia",
+    "contenido":"He pensado mucho en cómo cambias mis días, no con gestos espectaculares, sino con tu presencia constante. Estar contigo convierte lo ordinario en extraordinario. Una conversación tranquila, una mirada compartida, incluso el silencio: todo tiene sentido porque estás tú.\n\nAprendí que el amor duradero se construye con esa presencia que no se mide en palabras o promesas, sino en la atención y cuidado que se muestran todos los días. Y tú, sin darte cuenta, me enseñas cada día qué significa amar de manera real y profunda.",
+    "imagen":"photos/foto92.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Tu ternura que me transforma",
+    "contenido":"Amor mío, cada día contigo aprendo que la ternura no es debilidad, sino fuerza. La forma en que me escuchas, cómo recuerdas pequeños detalles o cómo me abrazas cuando lo necesito, transforma mi mundo.\n\nContigo entendí que amar no se trata de gestos espectaculares ni de palabras grandiosas, sino de pequeños actos que demuestran cuidado y atención sincera. Gracias por enseñarme a valorar la belleza de lo simple y por convertir mi vida en un lugar más cálido cada día.",
+    "imagen":"photos/foto93.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "La certeza de tu amor",
+    "contenido":"A veces siento que todo a mi alrededor es incierto, pero tu amor me da seguridad. Saber que estás allí, que me eliges cada día, me da una certeza que no necesito buscar en ningún otro lugar.\n\nTu amor no es ruidoso ni exige; se siente constante, firme y genuino. Gracias por recordarme que el amor verdadero se construye con presencia, respeto y cuidado diario. Esa certeza tuya me hace sentir completo y valioso.",
+    "imagen":"photos/foto94.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Lo que significa compartir contigo",
+    "contenido":"Amor, compartir la vida contigo me ha enseñado que amar es mucho más que palabras: es acompañar, entender y estar presente en los detalles de cada día. Cada conversación, cada silencio, cada risa compartida construye algo sólido y duradero entre nosotros.\n\nContigo aprendí que la verdadera intimidad se encuentra en la cercanía cotidiana, en la complicidad de quienes se eligen constantemente y en la alegría de vivir juntos los pequeños momentos que nadie más ve.",
+    "imagen":"photos/foto95.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Eres mi refugio y mi fuerza",
+    "contenido":"Amor, hay días que son difíciles y que parecen pesar más de lo que podemos soportar, pero tu presencia cambia todo. Eres mi refugio cuando me siento débil, y al mismo tiempo, mi fuerza para seguir adelante.\n\nGracias por sostenerme sin exigir nada, por escuchar sin juzgar y por recordarme que no estoy solo. Contigo aprendí que el amor profundo no es solo alegría, sino también apoyo, comprensión y cuidado constante.",
+    "imagen":"photos/foto96.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Mi solecito",
+    "contenido":"Mi solecito,\n\nQuiero que sepas que cada día que pasa agradezco al universo por haberte encontrado. Tú eres la luz que ilumina todo mi mundo, la que disipa la oscuridad de mis dudas y miedos. Cuando pienso en ti, no solo veo tu sonrisa, sino la claridad que traes a mi vida, esa guía silenciosa que me hace caminar con confianza, incluso en los días nublados.\n\nTu presencia tiene un calor único: no abruma, no quema; acaricia y sostiene. Es ese tipo de luz que permite crecer, soñar y sentir que todo es posible. Me enseñaste que amar no es solo un sentimiento, sino también una forma de ver y entender la vida: más brillante, más cálida, más plena.\n\nMi solecito, contigo aprendí que los momentos simples —un café compartido, una conversación ligera, un abrazo inesperado— se convierten en eternidad. Tu luz transforma lo cotidiano en extraordinario, y lo ordinario en mágico. A tu lado, cada instante tiene propósito y cada día se siente más lleno de vida.\n\nQuiero que sepas que eres mi guía, mi alegría y mi hogar. No necesito estrellas cuando tengo tu luz, ni caminos claros cuando me iluminas con tu ternura y tu amor. Gracias por ser mi solecito, por darme tu luz sin medida, y por recordarme que lo más importante de la vida es caminar juntos, sostenidos por la luz que uno del otro aporta.\n\nTe amo hoy, mañana y todos los días que vendrán, porque tú eres mi sol, mi norte y mi refugio.",
+    "imagen":"photos/foto97.jpg"
+  },
+  {
+    "tipo":"texto",
+    "titulo": "Te amo con el alma",
+    "contenido":"Mi amor,\n\nHoy llegamos al último día de este cuaderno, y siento que ninguna palabra que escriba podría abarcar todo lo que significas para mí. Pero quiero intentarlo, porque tú mereces que mi alma se abra y te hable con la verdad más pura que llevo dentro.\n\nTe amo con el alma, no solo con el corazón. Mi corazón puede cansarse, enfermar, incluso morir algún día, pero el alma es eterna. Y mi alma te pertenece, hoy y por siempre. Es la parte de mí que respira con la tuya, que se alegra con tus alegrías, que se duele con tus penas y que busca, constantemente, ser mejor porque tú estás en mi vida.\n\nContigo he aprendido que el amor verdadero no se mide en palabras ni en gestos, sino en la entrega silenciosa, en la fidelidad de los pequeños actos, en la paciencia, la ternura y el respeto que se sostienen más allá del tiempo. Contigo he entendido lo que significa amar desde lo más profundo, sin condiciones, con fe y con esperanza.\n\nDios nos ha juntado para caminar juntos, para apoyarnos, crecer y servirle con nuestras vidas. Como dice la Escritura:\n\n Dos son mejor que uno, porque tienen mejor paga por su trabajo; porque si caen, el uno levantará a su compañero. Pero ¡ay del que está solo! Cuando caiga, no habrá quien lo levante. También si dos duermen juntos, se calentarán; mas ¿cómo se calentará uno solo?\n— Eclesiastés 4:9-11\n\nEstas palabras me recuerdan que tú y yo no solo nos amamos, sino que estamos llamados a apoyarnos, protegernos y caminar de la mano en cada desafío, en cada bendición y en cada momento que Dios nos permita compartir.\n\nGracias por elegirme, por ser mi compañera, mi amiga, mi confidente y mi amor eterno. Gracias por ser luz, guía y refugio. Y sobre todo, gracias por dejar que mi alma te ame, libre, sincera y profunda, más allá de cualquier límite humano, porque lo que siento por ti no conoce fin.\n\nTe",
+    "imagen":"photos/foto98.jpg"
   }
 ]

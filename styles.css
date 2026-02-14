@@ -1,3 +1,6 @@
+/* =========================================
+   RESET Y ESTILOS GENERALES
+   ========================================= */
 * {
     margin: 0;
     padding: 0;
@@ -12,14 +15,17 @@ body {
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    perspective: 2000px;
+    perspective: 2500px; 
 }
 
-/* Portada */
-
+/* =========================================
+   PORTADA
+   ========================================= */
 .cover {
     text-align: center;
     animation: fadeIn 2s ease;
+    padding: 20px;
+    z-index: 100;
 }
 
 .cover h1 {
@@ -33,6 +39,17 @@ body {
     color: #8b6f5c;
 }
 
+.cover h3 {
+    margin-top: 20px;
+    font-size: 1rem;
+    color: #8b6f5c;
+    font-family: 'Playfair Display', serif;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    font-style: italic;
+}
+
 .cover button {
     margin-top: 30px;
     padding: 12px 25px;
@@ -43,10 +60,12 @@ body {
     cursor: pointer;
     border-radius: 30px;
     transition: 0.3s;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
 }
 
 .cover button:hover {
     background: #d9b7a6;
+    transform: scale(1.05);
 }
 
 .music-btn {
@@ -55,18 +74,22 @@ body {
     right: 20px;
     background: #f1ddd2;
     border: none;
-    padding: 10px;
+    padding: 12px;
     border-radius: 50%;
     cursor: pointer;
+    z-index: 200;
 }
 
-/* Libro */
-
+/* =========================================
+   CONTENEDOR DEL LIBRO (CENTRADO CORRECTO)
+   ========================================= */
 .book-container {
-    width: 90vw;
-    max-width: 800px;
-    height: 80vh;
+    width: 450px;  /* Ancho de una página */
+    height: 650px; /* Aumentamos un poco el alto para que quepa el texto */
     position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .book {
@@ -74,18 +97,23 @@ body {
     height: 100%;
     position: relative;
     transform-style: preserve-3d;
+    transition: transform 0.5s;
 }
 
+/* =========================================
+   HOJAS
+   ========================================= */
 .page {
     position: absolute;
     width: 100%;
     height: 100%;
     background: #fdfaf6;
-    border-radius: 5px;
+    border-radius: 5px 15px 15px 5px;
     box-shadow: 0 10px 25px rgba(0,0,0,0.1);
     transform-origin: left;
-    transition: transform 1s ease;
+    transition: transform 1.2s cubic-bezier(0.645, 0.045, 0.355, 1);
     cursor: pointer;
+    transform-style: preserve-3d;
 }
 
 .page.flipped {
@@ -98,65 +126,87 @@ body {
     width: 100%;
     height: 100%;
     backface-visibility: hidden;
-    padding: 40px;
-
+    padding: 30px; /* Espacio interno para que el texto no toque los bordes */
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: flex-start;
+    overflow: hidden; /* Evita que el contenido se salga */
 }
 
-
+/* --- CARA DEL POEMA (FRONT) --- */
 .page .front {
-    background: url('https://www.transparenttextures.com/patterns/paper.png');
-}
-
-.page .back {
-    transform: rotateY(180deg);
-}
-
-.page img {
-    max-width: 100%;
-    max-height: 65%;
-    object-fit: contain;
-    border-radius: 8px;
-    margin-top: 10px;
-    box-shadow: 0 8px 20px rgba(0,0,0,0.08);
-    background: linear-gradient(to right, #fdfaf6 0%, #f8f3ee 100%);
-
-}
-
-
-.hidden {
-    display: none;
-}
-
-@keyframes fadeIn {
-    from {opacity: 0;}
-    to {opacity: 1;}
-}
-
-@media(max-width: 768px) {
-    .cover h1 {
-        font-size: 2rem;
-    }
+    background: #fdfaf6 url('https://www.transparenttextures.com/patterns/paper.png');
+    justify-content: flex-start; /* Alinea el contenido desde arriba */
 }
 
 .poema-titulo {
     font-family: 'Playfair Display', serif;
-    font-size: 1.8rem;
+    font-size: 1.6rem;
     text-align: center;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 15px;
     color: #5e4636;
-    letter-spacing: 1px;
-    position: relative;
+    width: 90%;
+    border-bottom: 1px solid #e8cfc1;
+    padding-bottom: 10px;
 }
 
-.poema-titulo::after {
-    content: "";
-    display: block;
-    width: 60px;
-    height: 1px;
-    background: #c8a98d;
-    margin: 10px auto 0;
+/* Estilo para el texto del poema para que NO se corte */
+.page .front p {
+    font-family: 'Playfair Display', serif;
+    font-size: 0.95rem; /* Tamaño ajustado para que quepa todo */
+    color: #4a3b32;
+    line-height: 1.5; /* Espaciado entre líneas */
+    text-align: justify;
+    white-space: pre-wrap;
+    width: 100%;
+    overflow-y: auto; /* Si el poema es EXTREMADAMENTE largo, permite scroll sutil */
+    padding: 0 10px;
 }
+
+/* Imagen del poema (si es manuscrito) */
+.page .front img {
+    max-width: 100%;
+    max-height: 75%;
+    object-fit: contain;
+    border-radius: 5px;
+}
+
+/* --- CARA DE LA FOTO (BACK) --- */
+.page .back {
+    transform: rotateY(180deg);
+    background-color: #f8f3ee;
+    justify-content: center;
+}
+
+.page .back img {
+    width: 85%;
+    height: auto;
+    max-height: 80%;
+    object-fit: cover;
+    border: 10px solid #fff; /* Marco blanco tipo foto */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    transform: rotate(-1deg); /* Toque manual */
+}
+
+/* =========================================
+   UTILIDADES
+   ========================================= */
+.hidden {
+    display: none !important;
+}
+
+@keyframes fadeIn {
+    from {opacity: 0; transform: translateY(10px);}
+    to {opacity: 1; transform: translateY(0);}
+}
+
+@media(max-width: 768px) {
+    .book-container {
+        width: 85vw;
+        height: 70vh;
+    }
+    .poema-titulo { font-size: 1.3rem; }
+    .page .front p { font-size: 0.85rem; }
+}
+
